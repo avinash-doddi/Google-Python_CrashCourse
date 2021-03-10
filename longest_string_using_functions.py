@@ -1,6 +1,8 @@
 
 
-"""The longest_word function is used to compare 3 words. It should return the word with the most number of characters (and the first in the list when they have the same length). Fill in the blank to make this happen."""
+"""The longest_word function is used to compare 3 words.
+It should return the word with the most number of characters (and the first in the list when they have the same length). 
+Fill in the blank to make this happen."""
 
 
 def longest_word(word1, word2, word3):
