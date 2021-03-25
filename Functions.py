@@ -1,3 +1,5 @@
+#To Print "lovely string" if there are any vowels in input string. if none found, print "ugly string"
+
 def sol(n):
     count = 0
     for char in n:
@@ -8,4 +10,6 @@ def sol(n):
     else:
         return "ugly string"
     
-print(sol(input()))   //input a string
+print(sol(input()))   #input a string
+
+#_______________________________________________________________________________________________________________________________________________________________________
